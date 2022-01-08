@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Telefoane Samsung
 layout: category
 order: 1
 seo:
