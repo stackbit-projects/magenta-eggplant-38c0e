@@ -1,5 +1,5 @@
 ---
-title: Telefoane samsung
+title: Huse telefoane
 layout: category
 order: 2
 seo:
