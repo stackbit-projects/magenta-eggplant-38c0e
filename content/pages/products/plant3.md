@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '1.907'
 title: >-
   Telefon mobil Samsung Galaxy S21 Plus, Dual SIM, 128GB, 8GB RAM, 5G, Phantom
   Silver
