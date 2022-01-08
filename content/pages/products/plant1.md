@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '2.399'
-title: Telefon mobil Samsung Galaxy S20 FE (2021)
+title: 'Telefon mobil Apple iPhone 13 Pro Max, 128GB, 5G, Sierra Blue'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
