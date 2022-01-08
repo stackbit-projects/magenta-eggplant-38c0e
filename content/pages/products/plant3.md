@@ -6,7 +6,7 @@ title: >-
   Telefon mobil Samsung Galaxy S21 Plus, Dual SIM, 128GB, 8GB RAM, 5G, Phantom
   Silver
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/OIP (4).jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
