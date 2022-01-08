@@ -1,5 +1,5 @@
 ---
-title: Telefoane Samsung
+title: Telefoane Apple
 layout: category
 order: 1
 seo:
