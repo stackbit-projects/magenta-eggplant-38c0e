@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '2.399'
 title: Telefon mobil Samsung Galaxy S20 FE (2021)
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
